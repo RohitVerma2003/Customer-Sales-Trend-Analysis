@@ -177,7 +177,5 @@ Through this project, I gained hands-on experience in:
 
 ## 📷 Dashboard Preview
 
-(Add your dashboard screenshot here)
-
 <img width="1051" height="590" alt="dashboard" src="https://github.com/user-attachments/assets/d1e7bbdf-e92d-49e9-b5d6-fdc1c5317387" />
 
